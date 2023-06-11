@@ -1,4 +1,5 @@
 # Lollms for VS Code
+![](assets/logo.png)
 
 Lollms (Lord of Large Language Models) is a powerful library that provides a Flask backend to interact with LLMS (Large Language Models). Lollms for VS Code is an extension built on top of Lollms, designed to facilitate automatic code synthesis by leveraging LLMS capabilities. With Lollms for VS Code, users can write comments or prompts, and the AI generates code snippets based on the provided input.
 
