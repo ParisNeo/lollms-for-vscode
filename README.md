@@ -75,4 +75,4 @@ For any inquiries or feedback regarding Lollms for VS Code, please contact Paris
 
 ---
 
-*The slogan of Lollms is "One tool to rule them all," highlighting its versatility and power in code synthesis.*
+*The slogan of Lollms is "One tool to rule them all,"
