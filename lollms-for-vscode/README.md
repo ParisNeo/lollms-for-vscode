@@ -1,71 +1,43 @@
-# lollms-for-vscode README
+# lollms VSCode Extension
 
-This is the README for your extension "lollms-for-vscode". After writing up a brief description, we recommend including the following sections.
+Enhance your coding experience with the lollms VSCode Extension! This extension integrates with the lollms server to provide advanced text generation capabilities, helping you write code faster and more efficiently.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- Generate text snippets: Quickly generate descriptive comments, function signatures, and more with just a few clicks.
+- Code suggestions: Get intelligent code suggestions based on your existing code and the context of your project.
+- Complete code blocks: Automatically generate complete code blocks for common programming tasks, saving you time and effort.
 
-For example if there is an image subfolder under your extension project workspace:
+## Prerequisites
 
-\!\[feature X\]\(images/feature-x.png\)
+Before using the lollms VSCode Extension, make sure you have the following:
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+- Node.js and npm installed on your machine.
+- The lollms server up and running, accessible via a URL.
 
-## Requirements
+## Installation
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+1. Clone this repository to your local machine.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the following command to install the dependencies:
+   ```
+   npm install
+   ```
+4. Configure the extension to connect to your lollms server by providing the server's URL and any required authentication credentials.
 
-## Extension Settings
+## Usage
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+1. Open Visual Studio Code.
+2. Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P).
+3. Search for and select "lollms: Generate Text" to generate a text snippet.
+4. Use the generated text in your code.
 
-For example:
+## Contributing
 
-This extension contributes the following settings:
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+## License
 
-## Known Issues
+This project is licensed under the [MIT License](LICENSE).
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+For more information and updates, visit the lollms subreddit at r/lollms or follow us on Twitter at @SpaceNerduino.

@@ -1,0 +1,20 @@
+{
+  "name": "lollms-for-vscode",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <img src=\"assets/logo.png\" alt=\"Logo\" width=\"200\" height=\"200\">\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParisNeo/lollms-for-vscode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParisNeo/lollms-for-vscode/issues"
+  },
+  "homepage": "https://github.com/ParisNeo/lollms-for-vscode#readme"
+}
